@@ -1,0 +1,1 @@
+The idea of this project is to create a multifunctional drawing application which can be used for various purposes such as tech-savvy creatives or casual freehand drawers.
